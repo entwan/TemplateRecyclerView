@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Template RecyclerView</string>
+
+    <string-array name="description">
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ex sem, efficitur eget posuere at, mollis sit amet dolor.</item>
+        <item>Lorem 2 ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ex sem, efficitur eget posuere at, mollis sit amet dolor.</item>
+        <item>Lorem 3 ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ex sem, efficitur eget posuere at, mollis sit amet dolor.</item>
+        <item>Lorem 4 ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ex sem, efficitur eget posuere at, mollis sit amet dolor.</item>
+        <item>Lorem 5 ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ex sem, efficitur eget posuere at, mollis sit amet dolor.</item>
+        <item>Lorem 6 ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ex sem, efficitur eget posuere at, mollis sit amet dolor.</item>
+        <item>Lorem 7 ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ex sem, efficitur eget posuere at, mollis sit amet dolor.</item>
+        <item>Lorem 8 ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ex sem, efficitur eget posuere at, mollis sit amet dolor.</item>
+        <item>Lorem 9 ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ex sem, efficitur eget posuere at, mollis sit amet dolor.</item>
+        <item>Lorem 10 ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ex sem, efficitur eget posuere at, mollis sit amet dolor.</item>
+        <item>Lorem 11 ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ex sem, efficitur eget posuere at, mollis sit amet dolor.</item>
+    </string-array>
+</resources>
